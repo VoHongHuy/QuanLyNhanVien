@@ -1,0 +1,75 @@
+1
+dang thi A
+phong giao duc
+doi truong
+07/10/1997
+dangthihap@gmail.com
+12113131
+phu duong
+12.0
+23
+0
+2
+dang van B
+phong an ninh
+trung doi truong
+20/10/1992
+dangvantri113@gmail.com
+12113131
+luu khanh
+12.0
+23
+0
+6
+dang van F
+benh vien
+to truong
+07/07/1998
+dangvantue@gmail.com
+12012012
+phu duong phu van
+12.0
+0
+4
+Huynh thi D
+phong an ninh
+doi truong
+06/12/1995
+dangvantri113@gmail.com
+12113131
+phu duong
+12.0
+23
+0
+7
+Nguyen thi G
+benh vien
+to truong
+09/10/1996
+dangvantue@gmail.com
+12012012
+phu duong phu van
+12.0
+0
+3
+Nguyen van C
+phong an ninh
+doi truong
+02/11/1998
+dangvantri113@gmail.com
+12113131
+phu duong
+12.0
+23
+0
+5
+Tran van E
+benh vien
+to truong
+10/10/1997
+dangvantue@gmail.com
+12012012
+phu duong phu van
+12.0
+0
+-1
